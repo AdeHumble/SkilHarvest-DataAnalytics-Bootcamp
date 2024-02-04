@@ -1,3 +1,55 @@
+# JOHN MEMORIAL SCHOOL
+
+## CLASS ONE
+- Ade
+- Bukky
+- John
+
+
+## CLASS TWO
+1. sarah
+2. ade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # SkillHarvest
 This repository is an archive of my data analysis training with SkillHarvest Academy
 
@@ -26,3 +78,5 @@ WHERE A,B,C = 3
 ```
 
 ## Results & Findings
+
+#
