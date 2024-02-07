@@ -1,14 +1,11 @@
-# JOHN MEMORIAL SCHOOL
+# COUNTRY NAMES
+1. Nigeria
+2. fghjk
+3. nl;
+4. bn,.
 
-## CLASS ONE
-- Ade
-- Bukky
-- John
 
 
-## CLASS TWO
-1. sarah
-2. ade
 
 
 
