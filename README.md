@@ -41,9 +41,11 @@ D. How to develop a Github project readme file
 ## 3.0 POWER QUERY
 Here, we used **SkillHarvest_Stationary_Supplies.csv** to demonstrate the use cases of some power query functions. Below is an excerpt from the datasheet.
 
-#<p align="center"/> **Excerpt From The Datasheet** </p>
+## <p align="center"/> **Excerpt From The Datasheet** </p>
+<div align="center">
+  <img src="images/DatasheetExcerpt.PNG"  alt="Sample of Datasheet">
+</div>
 
-![Datasheet](images/DatasheetExcerpt.PNG "Sample of Datasheet")
 
 ## 3.1 POWER QUERY EXERCISES
 1. Show sales Rep whose Items are Pen Set and Binders
@@ -58,5 +60,16 @@ Here, we used **SkillHarvest_Stationary_Supplies.csv** to demonstrate the use ca
 PowerQuery
 =QUERY(A1:H44, "SELECT B,C WHERE C='Pen Set' OR C='Binder'",1)
 ```
-![Task1 Solution](images/Task1-Sol-Excerpt)
+<div align="center">
+  <img src="images/Task1-Sol-Excerpt.PNG" alt="Task1 Solution">
+</div>
+
+## <p align="center"/> TASK TWO SOLUTION </p>
+```
+PowerQuery
+=QUERY(A1:H44, "SELECT C,H WHERE (C='Binder' OR C='Pencil') AND F='2015'",1)
+```
+<div align="center">
+  <img src="images/Task2-Sol-Excerpt.PNG" alt="Task2 Solution">
+</div>
 
