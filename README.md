@@ -29,16 +29,16 @@ They play a crucial role in various aspects of business, education, and personal
 </div>
 
 ## 2.0 GITHUB FUNDAMENTALS
-A. Here, we were introduced to Github as a/an:
+**A.** Here, we were introduced to Github as a/an:
   - Version control & Collaboration Tool
   - Open source
   - Learning resources
     
-B. How to create a Github account
+**B.** How to create a Github account
 
-C. How to create a repository
+**C.** How to create a repository
 
-D. How to develop a Github project readme file
+**D.** How to develop a Github project readme file
   
 ## 3.0 POWER QUERY
 Here, we used **SkillHarvest_Stationary_Supplies.csv** to demonstrate the use cases of some power query functions. Below is an excerpt from the datasheet.
@@ -101,3 +101,14 @@ PowerQuery
 <div align="center">
   <img src="images/Task5-Sol-Excerpt.PNG" alt="Task5 Solution">
 </div>
+
+## <p align="center"/> TASK SIX SOLUTION </p>
+```
+PowerQuery
+=QUERY(A1:H44, "SELECT C,A,B,F,H WHERE C LIKE '%sk'", 1)
+```
+<div align="center">
+  <img src="images/Task6-Sol-Excerpt.PNG" alt="Task6 Solution">
+</div>
+
+## 4.0 INTRODUCTION TO POWERBI
