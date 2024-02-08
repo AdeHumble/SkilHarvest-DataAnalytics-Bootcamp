@@ -83,3 +83,12 @@ PowerQuery
 <div align="center">
   <img src="images/Task3-Sol-Excerpt.PNG" alt="Task3 Solution">
 </div>
+
+## <p align="center"/> TASK FOUR SOLUTION </p>
+```
+PowerQuery
+=QUERY(A1:H44, "SELECT E,H WHERE (E='Aug' OR E='Sep') AND F='2014'",1)
+```
+<div align="center>
+  <img src=images//Task4-Sol-Excerpt.PNG" alt="Task4 Solution">
+</div>
