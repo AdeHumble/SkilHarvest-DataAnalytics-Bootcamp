@@ -35,7 +35,9 @@ A. Here, we were introduced to Github as a/an:
   - Learning resources
     
 B. How to create a Github account
+
 C. How to create a repository
+
 D. How to develop a Github project readme file
   
 ## 3.0 POWER QUERY
@@ -73,3 +75,11 @@ PowerQuery
   <img src="images/Task2-Sol-Excerpt.PNG" alt="Task2 Solution">
 </div>
 
+## <p align="center"/> TASK THREE SOLUTION </p>
+```
+PowerQuery
+=QUERY(A1:H44, "SELECT A,H WHERE (A='Central' OR A='East') AND F='2014'",1)
+```
+<div align="center">
+  <img src="images/Task3-Sol-Excerpt.PNG" alt="Task3 Solution">
+</div>
