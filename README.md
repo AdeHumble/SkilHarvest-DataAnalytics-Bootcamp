@@ -90,5 +90,14 @@ PowerQuery
 =QUERY(A1:H44, "SELECT E,H WHERE (E='Aug' OR E='Sep') AND F='2014'",1)
 ```
 <div align="center">
-  <img src=images/Task4-Sol-Excerpt.PNG" alt="Task4 Solution">
+  <img src="images/Task4-Sol-Excerpt.PNG" alt="Task4 Solution">
+</div>
+
+## <p align="center"/> TASK FIVE SOLUTION </p>
+```
+PowerQuery
+=QUERY(A1:H44, "SELECT C,A,B,F,H WHERE C LIKE 'Pen%'", 1)
+```
+<div align="center">
+  <img src="images/Task5-Sol-Excerpt.PNG" alt="Task5 Solution">
 </div>
