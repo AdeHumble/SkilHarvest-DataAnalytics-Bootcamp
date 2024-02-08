@@ -41,6 +41,8 @@ D. How to develop a Github project readme file
 ## 3.0 POWER QUERY
 Here, we used **SkillHarvest_Stationary_Supplies.csv** to demonstrate the use cases of some power query functions. Below is an excerpt from the datasheet.
 
+#<p align="center"/> **Excerpt From The Datasheet** </p>
+
 ![Datasheet](images/DatasheetExcerpt.PNG "Sample of Datasheet")
 
 ## 3.1 POWER QUERY EXERCISES
