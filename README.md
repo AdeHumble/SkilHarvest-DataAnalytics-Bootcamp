@@ -16,10 +16,29 @@ They play a crucial role in various aspects of business, education, and personal
 - **Key features:** Organization, Calculations, Data analysis, Visualization & Collaboration
 - **Common uses:** Financial management, Data tracking, Analysis & Reporting, and Decision making
 - **Differences:**
+
+<div align="center">
   
-|Feature|Microsoft Excel|Google sheet|
-|.....|.......|.......|
-|Ownership|Requires licences & Installation|....|
-|Cost|.....|......|
-|Functionalities|....|....|
-|Integration|....|....|
+| Feature | Microsoft Excel | Google sheet |
+|---------|-----------------|--------------|
+|Ownership|Requires installation  & licenses|Cloud-based, accessible online|
+|Cost|Paid software, licenses required|Free basic features, paid options|
+|Functionalities|Advanced data analysis tools|Basic to intermediate capabilities|
+|Collaboration|Limited collaboration features|Robust real-time collaboration capabilities|
+
+</div>
+
+## 2.0 GITHUB FUNDAMENTALS
+A. Here, we were introduced to Github as a/an:
+  - Version control & Collaboration Tool
+  - Open source
+  - Learning resources
+    
+B. How to create a Github account
+C. How to create a repository
+D. How to develop a Github project readme file
+  
+## 3.0 POWERQUERY
+Here, we used **SkillHarvest_Stationary_Supplies.csv** to demonstrate the use cases of some power query functions. Below is an excerpt of the datasheets
+
+
