@@ -1,9 +1,6 @@
 # <p align="center"/> SKILLHARVEST DATA ANALYSIS BOOTCAMP</p>
 
-<div align="center">
-  <img src="images/SHLogo.png" alt="SH LOGO" width="100" height="100">
-  <p>SKILLHARVEST DATA ANALYSIS BOOTCAMP</p>
-</div>
+<div align="center"> <img src="images/SHLogo.png"> <p>SKILLHARVEST DATA ANALYSIS BOOTCAMP</p> </div>
 
 ## INTRODUCTION
 This repository is an archive of my learning journals during the data analysis training bootcamp with SkillHarvest Academy. Below, is a curated list of the bootcamp contents:
