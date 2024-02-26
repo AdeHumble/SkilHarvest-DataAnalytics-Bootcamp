@@ -1,5 +1,10 @@
 # <p align="center"/> SKILLHARVEST DATA ANALYSIS BOOTCAMP</p>
 
+<div align="center">
+  <img src="images/SkilHarvest Logo.PNG" alt="SH LOGO" width="100" height="100">
+  <p>SKILLHARVEST DATA ANALYSIS BOOTCAMP</p>
+</div>
+
 ## INTRODUCTION
 This repository is an archive of my learning journals during the data analysis training bootcamp with SkillHarvest Academy. Below, is a curated list of the bootcamp contents:
 1. Speadsheets Fundamentals (Microsoft Excel & Google Sheets) - [Download Here](https://www.microsoft.com)
@@ -112,8 +117,11 @@ PowerQuery
 </div>
 
 ## 4.0 INTRODUCTION TO POWERBI
-Here, we were familairized with PowerBi interface and dwells more on the processes of transforming data. We made use of two different datasets for class practices. However, I further created three stunning dashboards out of these datasets. You can find them below:
+Here, we were familairized with PowerBI interface and dwells more on the processes of transforming data. We made use of two different datasets for class practices. However, I further created three stunning dashboards out of these datasets. You can find them below:
 
-![StaioneriesDashboard](images/StaioneriesDashboard2.PNG)
+## <p align="center"/> SALES DASHBOARD </p>
+<div align="center"> <img src="images/StationeriesDashboard2.PNG"> </div>
 
-![StaioneriesDashboard](images/StaioneriesDashboard1.PNG)
+
+## <p align="center"/> 2014-2015 FISCAL REPORT: In response to PowerQuery Exercises </p>
+<div align="center"> <img src="images/StationeriesDashboard1.PNG"> </div>
