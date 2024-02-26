@@ -12,6 +12,7 @@
 </div>
 
 
+
 ## INTRODUCTION
 This repository is an archive of my learning journals during the data analysis training bootcamp with SkillHarvest Academy. Below, is a curated list of the bootcamp contents:
 1. Speadsheets Fundamentals (Microsoft Excel & Google Sheets) - [Download Here](https://www.microsoft.com)
