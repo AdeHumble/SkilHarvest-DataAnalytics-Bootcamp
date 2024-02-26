@@ -112,3 +112,8 @@ PowerQuery
 </div>
 
 ## 4.0 INTRODUCTION TO POWERBI
+Here, we were familairized with PowerBi interface and dwells more on the processes of transforming data. We made use of two different datasets for class practices. However, I further created three stunning dashboards out of these datasets. You can find them below:
+
+![StaioneriesDashboard](images/StaioneriesDashboard2.PNG)
+
+![StaioneriesDashboard](images/StaioneriesDashboard1.PNG)
