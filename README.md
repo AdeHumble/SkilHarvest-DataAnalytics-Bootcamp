@@ -1,7 +1,7 @@
 # <p align="center"/> SKILLHARVEST DATA ANALYSIS BOOTCAMP</p>
 
 <div align="center">
-  <img src="images/SkilHarvest%20Logo.png" alt="SH LOGO" width="100" height="100">
+  <img src="images/SHLogo.png" alt="SH LOGO" width="100" height="100">
   <p>SKILLHARVEST DATA ANALYSIS BOOTCAMP</p>
 </div>
 
