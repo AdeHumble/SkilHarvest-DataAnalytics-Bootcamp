@@ -1,6 +1,16 @@
-# <p align="center"/> SKILLHARVEST DATA ANALYSIS BOOTCAMP</p>
+<div align="center">
+  <table style="margin-left:auto; margin-right:auto; border-collapse: collapse">
+    <tr>
+      <td align="left" style="border: none">
+        <img src="images/SHLogo.jpg" alt="Image Description" width="100" height="100">
+      </td>
+      <td align="center" style="border: none">
+        <h1>SKILLHARVEST DATA ANALYSIS BOOTCAMP</h1>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<div align="center"> <img src="images/SHLogo.png"> <p>SKILLHARVEST DATA ANALYSIS BOOTCAMP</p> </div>
 
 ## INTRODUCTION
 This repository is an archive of my learning journals during the data analysis training bootcamp with SkillHarvest Academy. Below, is a curated list of the bootcamp contents:
@@ -45,7 +55,7 @@ They play a crucial role in various aspects of business, education, and personal
 ## 3.0 POWER QUERY
 Here, we used **SkillHarvest_Stationary_Supplies.csv** to demonstrate the use cases of some power query functions. Below is an excerpt from the datasheet.
 
-## <p align="center"/> **Excerpt From The Datasheet** </p>
+# <p align="center"/> **Excerpt From The Datasheet** </p>
 <div align="center">
   <img src="images/DatasheetExcerpt.PNG"  alt="Sample of Datasheet">
 </div>
@@ -59,7 +69,7 @@ Here, we used **SkillHarvest_Stationary_Supplies.csv** to demonstrate the use ca
 5. Show sales of items that start with Pen, include their region, sales rep and year.
 6. Show sales of items that end with ‘sk’, include their region, sales rep and year
 
-## <p align="center"/> TASK ONE SOLUTION </p>
+# <p align="center"/> TASK ONE SOLUTION </p>
 ```
 PowerQuery
 =QUERY(A1:H44, "SELECT B,C WHERE C='Pen Set' OR C='Binder'",1)
@@ -68,7 +78,7 @@ PowerQuery
   <img src="images/Task1-Sol-Excerpt.PNG" alt="Task1 Solution">
 </div>
 
-## <p align="center"/> TASK TWO SOLUTION </p>
+# <p align="center"/> TASK TWO SOLUTION </p>
 ```
 PowerQuery
 =QUERY(A1:H44, "SELECT C,H WHERE (C='Binder' OR C='Pencil') AND F='2015'",1)
@@ -77,7 +87,7 @@ PowerQuery
   <img src="images/Task2-Sol-Excerpt.PNG" alt="Task2 Solution">
 </div>
 
-## <p align="center"/> TASK THREE SOLUTION </p>
+# <p align="center"/> TASK THREE SOLUTION </p>
 ```
 PowerQuery
 =QUERY(A1:H44, "SELECT A,H WHERE (A='Central' OR A='East') AND F='2014'",1)
@@ -86,7 +96,7 @@ PowerQuery
   <img src="images/Task3-Sol-Excerpt.PNG" alt="Task3 Solution">
 </div>
 
-## <p align="center"/> TASK FOUR SOLUTION </p>
+# <p align="center"/> TASK FOUR SOLUTION </p>
 ```
 PowerQuery
 =QUERY(A1:H44, "SELECT E,H WHERE (E='Aug' OR E='Sep') AND F='2014'",1)
@@ -95,7 +105,7 @@ PowerQuery
   <img src="images/Task4-Sol-Excerpt.PNG" alt="Task4 Solution">
 </div>
 
-## <p align="center"/> TASK FIVE SOLUTION </p>
+# <p align="center"/> TASK FIVE SOLUTION </p>
 ```
 PowerQuery
 =QUERY(A1:H44, "SELECT C,A,B,F,H WHERE C LIKE 'Pen%'", 1)
@@ -104,7 +114,7 @@ PowerQuery
   <img src="images/Task5-Sol-Excerpt.PNG" alt="Task5 Solution">
 </div>
 
-## <p align="center"/> TASK SIX SOLUTION </p>
+# <p align="center"/> TASK SIX SOLUTION </p>
 ```
 PowerQuery
 =QUERY(A1:H44, "SELECT C,A,B,F,H WHERE C LIKE '%sk'", 1)
