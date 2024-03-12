@@ -141,10 +141,10 @@ Here, I was the team lead of team of 9 and we were saddled to undertake a data a
 
 Through surveys conducted via Google Forms, key information such as name, email address, age group, occupation, state of residence, gender, and highest level of education was gathered. The objective is to extract meaningful insights and trends from the dataset, shedding light on the profiles and characteristics of data analytics interns. By employing advanced analytical techniques, the project aims to provide valuable insights for program improvement and participant engagement strategies.
 
-I have created a separate GitHub project for this particular exercise. You can find it [Here](). You can also delve into a glimpse of the project dashboard below:
+I have created a separate GitHub project for this particular exercise. You can find it [Here](https://github.com/AdeHumble/SkilHarvest-DataIntern-Insights.git). You can also delve into a glimpse of the project dashboard below:
 
 <div align="center"> <img src="images/DataCruisers-Dashboard.PNG"> </div>
 
 
 ## 6.0 POWERBI DAX EXPRESSIONS, MEASURES & DIMENSIONS
-This was the crux of the SkilHarvest data analytics bootcamp. We dived into an exciting dataset from the HR industry where we were introduced to DAX functions. We created a number of measures and dimensions that assisted our insights from the data. I have created a separate GitHub project for this particular exercise. You can find it [Here]()
+This was the crux of the SkilHarvest data analytics bootcamp. We dived into an exciting dataset from the HR industry where we were introduced to DAX functions. We created a number of measures and dimensions that assisted our insights from the data. I have created a separate GitHub project for this particular exercise. You can find it [Here](https://github.com/AdeHumble/SkilHarvest-DataIntern-Insights.git)
