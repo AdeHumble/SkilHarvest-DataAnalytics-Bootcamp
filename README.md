@@ -136,14 +136,14 @@ Here, we were familairized with PowerBI interface and dwells more on the process
 ## <p align="center"/> 2014-2015 FISCAL REPORT FOR SKILHARVEST STATIONERIES: In response to PowerQuery Exercises </p>
 <div align="center"> <img src="images/StationeriesDashboard1.PNG"> </div>
 
-## 5.0 CAPSTONE PROJECT 1
+## 5.0 CAPSTONE PROJECT 1: TEAM DATACRUISERS
 Here, I was the team lead of team of 9 and we were saddled to undertake a data analytics project. The project entails an in-depth analysis of demographic and professional data collected from participants enrolled in the SkilHarvest Bootcamp 2023-2024.
 
 Through surveys conducted via Google Forms, key information such as name, email address, age group, occupation, state of residence, gender, and highest level of education was gathered. The objective is to extract meaningful insights and trends from the dataset, shedding light on the profiles and characteristics of data analytics interns. By employing advanced analytical techniques, the project aims to provide valuable insights for program improvement and participant engagement strategies.
 
 I have created a separate GitHub project for this particular exercise. You can find it [Here](). You can also delve into a glimpse of the project dashboard below:
 
-<div align="center"> <img src="images/StationeriesDashboard1.PNG"> </div>
+<div align="center"> <img src="images/DataCruisers-Dashboard.PNG"> </div>
 
 
 ## 6.0 POWERBI DAX EXPRESSIONS, MEASURES & DIMENSIONS
