@@ -11,7 +11,9 @@
   </table>
 </div>
 
-
+## Table of Contents
+1. [Introduction](introduction)
+2. [Spreadsheet Fundamentals](1.0-spreadsheets-fundamentals)
 
 ## INTRODUCTION
 This repository is an archive of my learning journals during the data analysis training bootcamp with SkillHarvest Academy. Below, is a curated list of the bootcamp contents:
